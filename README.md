@@ -1,2 +1,3 @@
-# Mona-aur-react
+portfolio project
+
 mona and react in vs code 
